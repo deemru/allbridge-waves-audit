@@ -37,13 +37,13 @@
 
 ## Survey scope
 
-The [allbridge-waves-contract](https://github.com/allbridge-io/allbridge-waves-contract) project was examined up to and including June 14, 2022.
+The [allbridge-waves-contract](https://github.com/WavesBridge/allbridge-waves-contract) project was examined up to and including June 14, 2022.
 
 At the time of examination, the project included an overall codebase with two Waves smart contracts and the immediate objective of this survey is to identify and address security improvements on the Waves side, while acknowledging the need for consistent architecture across all chains.
 
 ## Project composition
 
-The composition of the project is derived from the publicly available information on the [allbridge-waves-contract](https://github.com/allbridge-io/allbridge-waves-contract) repository and additional details from the development team, including the source codes of the smart contracts and their deployment addresses on the Waves network.
+The composition of the project is derived from the publicly available information on the [allbridge-waves-contract](https://github.com/WavesBridge/allbridge-waves-contract) repository and additional details from the development team, including the source codes of the smart contracts and their deployment addresses on the Waves network.
 
 The final set of contracts is:
 - `bridge`: `3PQDRn2XPVtctY2pk83W3qVykWqXPvoU5Zp`
